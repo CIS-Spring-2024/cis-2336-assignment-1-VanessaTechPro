@@ -11,7 +11,6 @@ body {
 }
 
 
-
 .box {
     margin-left: auto;
     margin-right: auto;
@@ -29,6 +28,8 @@ nav {
     padding-top: 14px;
     padding-bottom: 14px;
 }
+
+
 main {
     height: 400px;
     text-align: center;
@@ -78,9 +79,7 @@ nav a {
     padding-right: 10px;
 }
 
-.topnav a.active {
-    color: red;
-} 
+
 
 .text {
     color: whitesmoke;
